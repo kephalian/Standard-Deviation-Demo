@@ -4,12 +4,12 @@
 
 
 
-![Screen_Shot1]('https://github.com/kephalian/Standard-Deviation-Demo/blob/main/Screenshot_20230826-151509_Pydroid%203.png')
+![Screen_Shot1]('https://github.com/kephalian/Standard-Deviation-Demo/blob/main/Screenshot_20230826-151509_Pydroid%203.png?raw=true')
 
 
 
 
-![Screen_Shot2]("https://github.com/kephalian/Standard-Deviation-Demo/blob/main/Screenshot_20230826-151551_Pydroid%203.png")
+![Screen_Shot2]("https://github.com/kephalian/Standard-Deviation-Demo/blob/main/Screenshot_20230826-151551_Pydroid%203.png?raw=true")
 
 
 
